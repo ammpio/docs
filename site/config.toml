@@ -1,11 +1,4 @@
-baseurl = "https://docs.ammp.io/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-languageLang = "en"
-title = "AMMP Documentation"
-
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
-
+title = "My New Hugo Site"
 theme = "ananke"
