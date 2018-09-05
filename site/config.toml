@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://docs.ammp.io/"
 languageCode = "en-us"
 languageLang = "en"
 title = "AMMP Documentation"
@@ -8,4 +8,4 @@ title = "AMMP Documentation"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-echo 'theme = "ananke"' >> config.toml
+theme = "ananke"
